@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Drag And Drop</string>
+    <string name="drag_drop">Click on the image to drag and drop</string>
+</resources>
